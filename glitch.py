@@ -1,2 +1,5 @@
+# Hidden Code Executor
+# This file contains a hidden version of annixxy
+
 import base64
 _ = base64.b64decode("""IyBTaW1wbGUgZXhhbXBsZSBjb2RlIHRvIGRlbW9uc3RyYXRlIG9iZnVzY2F0aW9uCiMgUmVwbGFjZSB0aGlzIHdpdGggdGhlIGFjdHVhbCBjb250ZW50IG9mIHlvdXIgbGFiLnB5CmltcG9ydCBzeXMKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBwcmludCgiSGVsbG8sIHRoaXMgaXMgbGFiLnB5IHJ1bm5pbmcgb2JmdXNjYXRlZC4iKQogICAgcHJpbnQoZiJTeXMgdmVyc2lvbjoge3N5cy52ZXJzaW9ufSIp""")
